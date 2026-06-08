@@ -1,9 +1,10 @@
 # Founder
-CIA-FOUNDER-PREACH.OS-3:JdRri^$k]=@2M;!GY{rtm{
+BKA-FOUNDER-PREACH.OS-3:JdRri^$k]=@2M;!GY{rtm{
 # Co Founder
-CIA-COFOUNDER-LTC.COM-P*S%rWuniQcu$s%MMWg{&dd
+BKA-COFOUNDER-LTC.COM-P*S%rWuniQcu$s%MMWg{&dd
 # Mitglied
-CIA-MITGLIED-USER-]erngo=VtzJ?J*b&^gWt%I[]
-CIA-MITGLIED-7%-qTR2O|jL7a|3jZBY#Fgm^|};
+BKA-MITGLIED-USER-]erngo=VtzJ?J*b&^gWt%I[]
+# Partner
+BKA-PARTNER-hetzer-qTR2O|jL7a|3jZBY#Fgm^|};
 # Media
-CIA-MEDIA-cj=Sm(4?]=rL@P[Mm+Ic,0j_
+BKA-MEDIA-cj=Sm(4?]=rL@P[Mm+Ic,0j_
